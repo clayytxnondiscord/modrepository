@@ -19,8 +19,8 @@ file1name=
 mods=
 
 [mod1]
-title=
-description=
+title=First Mod
+description=First Mod File on the repository. This is a test to make sure everything works!
 pakfile=
 pakname=
 sigfile=
