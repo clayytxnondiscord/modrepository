@@ -20,7 +20,17 @@ mods=
 
 [mod1]
 title=First Mod
-description=First Mod File on the repository. This is a test to make sure everything works!
+description=First mod file on the repository. This is a test to make sure everything works!
+pakfile=
+pakname=
+sigfile=
+signame=
+thumbnail=
+installed=
+
+[mod2]
+title=Second mod placeholder
+description=i love stalking minors
 pakfile=
 pakname=
 sigfile=
