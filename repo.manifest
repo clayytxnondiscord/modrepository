@@ -1,0 +1,28 @@
+;mod repo by clayytxn | if you are reading this wyd? :)
+;everything left blank is "unused" code that leaves room for newer possible code.
+;this is an "ini style" file, i just like manifest better
+;updater is for future updates and files needed
+[application]
+status=
+count=
+list=
+template=
+version=
+date=
+
+[updater]
+filecount=
+file1=
+file1name=
+
+[repo]
+mods=
+
+[mod1]
+title=
+description=
+pakfile=
+pakname=
+sigfile=
+signame=
+thumbnail=
